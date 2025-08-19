@@ -39,8 +39,8 @@ Non-selected publications are stored in `publications_non_AR_maintenance.xlsx`.
 
 ### 4. **Additional Files**
 * `duplicates_report.xlsx`: report on removed duplicates.
-* `titres_non_trouves.xlsx`: list of unfound or non-retrieved titles.
-* `Capture d'écran 2025-08-17 192843.png`: example output or visualization.
+* `titres_non_trouves.xlsx`: list of  non-retrieved titles.
+* `Capture d'écran 2025-08-17 192843.png`:  visualization.
 
 ## Installation
 
